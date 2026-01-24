@@ -2,15 +2,15 @@
 
 Este repositório reúne **resoluções comentadas de problemas da OBI**, organizadas por **ano, modalidade, nível e fase**.
 
-📌 **Objetivo:** servir como **material de estudo** para quem está aprendendo programação e praticando lógica e algoritmos. 
+📌 **Objetivo:** servir como **material de estudo** para quem está aprendendo programação e praticando lógica e algoritmos. <br>
 📅 **Desafio pessoal:** resolver **1 problema da OBI por dia**.
 
 
 ## 📚 Conteúdo
 
-- [OBI 2019](#obi-2019)
-- [OBI 2020](#obi-2020)
-- [OBI 2022](#obi-2022)
+- [OBI 2019](./2019)
+- [OBI 2020](./2020)
+- [OBI 2022](./2022)
 
 
 ## OBI 2019
