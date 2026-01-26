@@ -2,7 +2,7 @@
 
 Este repositório reúne **resoluções comentadas de problemas da OBI**, organizadas por **ano, modalidade, nível e fase**.
 
-📌 **Objetivo:** servir como **material de estudo** para quem está aprendendo programação e praticando lógica e algoritmos. 
+📌 **Objetivo:** servir como **material de estudo** para quem está aprendendo programação e praticando lógica e algoritmos. <br>
 📅 **Desafio pessoal:** resolver **1 problema da OBI por dia**.
 
 
