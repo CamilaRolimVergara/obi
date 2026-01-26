@@ -8,10 +8,23 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
 
 ## 📚 Conteúdo
 
+- [OBI 2018](#obi-2018)
 - [OBI 2019](#obi-2019)
 - [OBI 2020](#obi-2020)
 - [OBI 2022](#obi-2022)
 
+## OBI 2018
+
+### 🧠 Modalidade Programação
+
+#### ⭐ Nível Sênior
+
+- **Primeira Fase**
+  - [x] Piso da escola
+    - 📄 Enunciado: `ProvaOBI2018_f1.pdf`
+    - 🐍 Solução: `piso.py`
+  - [ ] Figurinhas da Copa
+  - [ ] Ilhas
 
 ## OBI 2019
 
