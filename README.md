@@ -23,7 +23,9 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
   - [x] Piso da escola
     - 📄 Enunciado: `ProvaOBI2018_f1.pdf`
     - 🐍 Solução: `piso.py`
-  - [ ] Figurinhas da Copa
+  - [x] Figurinhas da Copa
+    - 📄 Enunciado: `ProvaOBI2018_f1.pdf`
+    - 🐍 Solução: `figurinhas.py`
   - [ ] Ilhas
 
 ## OBI 2019
@@ -52,7 +54,9 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
     - 🐍 Solução: `acelerador.py`
   - [ ] Fissura perigosa
   - [ ] Bingo!
-  - [ ] Paciente zero
+  - [x] Paciente zero
+    - 📄 Enunciado: `ProvaOBI2020_f1A.pdf`
+    - 🐍 Solução: `paciente.py`
 
 - **Primeira Fase - Turno B**
   - [x] Irmãos
