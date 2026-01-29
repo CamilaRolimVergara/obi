@@ -53,7 +53,9 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
     - 📄 Enunciado: `ProvaOBI2020_f1A.pdf`
     - 🐍 Solução: `acelerador.py`
   - [ ] Fissura perigosa
-  - [ ] Bingo!
+  - [x] Bingo!
+    - 📄 Enunciado: `ProvaOBI2020_f1A.pdf`
+    - 🐍 Solução: `bingo.py`
   - [x] Paciente zero
     - 📄 Enunciado: `ProvaOBI2020_f1A.pdf`
     - 🐍 Solução: `paciente.py`
