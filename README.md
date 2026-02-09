@@ -68,7 +68,9 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
   - [x] Camisetas da olimpíada
     - 📄 Enunciado: `ProvaOBI2020_f1B.pdf`
     - 🐍 Solução: `camisetas.py`
-  - [ ] Música para todos
+  - [x] Música para todos
+    - 📄 Enunciado: `ProvaOBI2020_f1B.pdf`
+    - 🐍 Solução: `musica.py`
 
 ## OBI 2022
 
