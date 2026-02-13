@@ -35,7 +35,9 @@ Este repositório reúne **resoluções comentadas de problemas da OBI**, organi
 #### ⭐ Nível Sênior
 
 - **Primeira Fase**
-  - [ ] Calçada imperial
+  - [x] Calçada imperial
+    - 📄 Enunciado: `ProvaOBI2019_f1.pdf`
+    - 🐍 Solução: `imperial.py`
   - [x] A idade de dona Mônica
     - 📄 Enunciado: `ProvaOBI2019_f1.pdf`
     - 🐍 Solução: `idade.py`
